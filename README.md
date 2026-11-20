@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HeritageLens — Ideathon Prototype
 
 A frontend-only prototype for the theme **Culture & Heritage**: discover
@@ -95,3 +96,6 @@ non-clickable pin.
   nationwide local network — travel times are explicitly labelled
   "Estimated," and the itinerary page carries a visible disclaimer, per
   the brief.
+=======
+# HeritageLens
+>>>>>>> 112b21d4a8d61167b60d9d373239ce45b84e19ae
